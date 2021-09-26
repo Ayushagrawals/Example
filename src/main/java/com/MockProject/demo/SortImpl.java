@@ -18,6 +18,7 @@ public SortImpl(SortAlgorithm sortAlgorithm)
 public void printMessage()
 {
 System.out.println("hl");
+System.out.println("hld");
 	System.out.println("h");
 System.out.println("h");
 System.out.println(sortAlgo.Sort());
