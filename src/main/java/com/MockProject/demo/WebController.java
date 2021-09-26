@@ -16,7 +16,7 @@ public class WebController {
 	//@RequestMapping(value="/create",method = {RequestMethod.POST})
 	public void CategoryControl(@RequestBody Category c)
 	{
-		
+		System.out.println("hi");
 	//categoryservice.createCategory(c);
 	}
 }
